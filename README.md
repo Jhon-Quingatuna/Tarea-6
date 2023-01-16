@@ -175,6 +175,8 @@ Capacitores en circuitos de cd
 
 # VIDEO
 
+https://youtu.be/I2IRsNk5uiM
+
 # CONCLUSIONES 
 
 Pudimos observar el como resolver los circuitos por diferentes metodos de analisis, y el como se aplica la conductancia.
