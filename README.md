@@ -190,5 +190,4 @@ Cuando la resistencia de la carga es igual a la resistencia interna de la fuente
 
 Carlos G, J. (2021, 17 junio). ▷ 【 ¿Qué es la Capacitancia? 】 ⚡ Formula y Unidad de medida. Capacitores.Net. https://capacitores.net/que-es-la-capacitancia/.
 
-Antonio José Salazar Gómez – Universidad de los Andes. (2020). THÉVENIN, NORTON Y MÁXIMA TRANSFERENCIA DE POTENCIA (N.o 25). http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/06_Thevenin_Norton_Maxima_Transferencia_de_Potencia.pdf.
 
